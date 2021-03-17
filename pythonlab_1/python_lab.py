@@ -3,4 +3,4 @@ a= int(input('Enter  the value of a'))
 b= int(input('Enter the value of b'))
 c= int(input('Enter the value of c'))
 sum= a+b+c
-print(f'The sum of given three number is:',sum)
+print(f'The sum of given three number is {sum}')
